@@ -2,7 +2,7 @@
 Network programming utility header for Linux
 
 ## MREPRO_COMMON v0.4.2
-All in one utility header for Network Programming exercises.
+All in one utility header for Network Programming.
 
 Currently features:
   - all necessary includes in one place       
@@ -14,6 +14,7 @@ Currently features:
   - simple tcp, udp and http servers/listeners
   - wrappers for various functions
   - blocking listener for any kind of socket
+  - simple web server
 
 ## USAGE
 
